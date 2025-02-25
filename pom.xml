@@ -11,7 +11,7 @@
 	<groupId>microUser</groupId>
 	<artifactId>microUser</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>microUser</name>
+	<name>microuser</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
